@@ -11,6 +11,8 @@ $(function() {
     // Function to render each chat
     var renderChat = function(id, data) {
         // Build appropriate DOM elements and add them to the DOM
+        var newChat = $("<div>");
+        newChat.append($("<h3>"+id+"</h3>"));
         
     };
 
