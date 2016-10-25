@@ -44,3 +44,7 @@ form.authenticate {
     padding: 20px;
     border-radius: 20px;
 }
+
+section div {
+    float: right;
+}
